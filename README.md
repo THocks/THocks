@@ -1,3 +1,13 @@
+Olá , eu sou o Thiago Lima Desenvolvedor Full Stack
+
+
+🎓 Cursando Ciências da Computação
+
+📧  thiago.developer-end@outlook.com
+
+
+
+
 
 <div align="center">
   <a href="https://github.com/THocks">
