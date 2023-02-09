@@ -1,14 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Lucas+de+Lima+Batista;I'm+26+years+old;I+from+Uberlândia,+MG;I+study+Full+Stack;at+College+Labenu;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thiago+Lima+de+Batista;I'm+23+years+old;I+from+Uberlândia,+MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ##
 
 - 📝 Cursando Full Stack
-- 📖 Aluno DEV Labenu
-- 🌱 Estudando Java Script
-- 🔋  Full Stack
-- 📫 Contate-me no email: joaohgs77@gmail.com
+- 📝 Cursando CIências da Computação
+- 🌱 Linguagems Java Script | React | TypeScript | NextJs| FireBase | Tailwind
+- 🔋  Full Stack / FrontEnd
+- 📫 Contate-me no email: thiagolimathiagolima@outlook.com
 
  ## 
 
@@ -24,9 +24,6 @@
 
 
 
-🎓 Cursando Ciências da Computação
-
-📧  thiago.developer-end@outlook.com
 
 
 
