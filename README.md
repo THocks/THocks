@@ -1,32 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thiago+Lima+de+Batista;I'm+23+years+old;I+from+Uberlândia,+MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
+# Olá, eu sou Thiago de Lima! 👋
 
-##
+Sou um desenvolvedor Front END  e estudante de Ciência da Computação. Atualmente, estou aprendendo e trabalhando com as seguintes linguagens de programação:
 
-- 📝 Cursando Full Stack
-- 📝 Cursando CIências da Computação
-- 🌱 Linguagems Java Script | React | TypeScript | NextJs| FireBase | Tailwind
-- 🔋  Full Stack / FrontEnd
-- 📫 Contate-me no email: thiagolimathiagolima@outlook.com
+### Linguagens
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=eed718)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
- ## 
+Além disso, tenho experiência com as seguintes bibliotecas e frameworks:
 
-  ### Estudando:
-  <div>
- <img height="50" width="60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
- <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
- <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
- <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
- </div>
-
-
-
-
-
-
-
-
+### Bibliotecas/Frameworks
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=white)
+![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
